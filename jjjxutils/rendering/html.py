@@ -1,12 +1,5 @@
 import base64
-import os
-import shutil
-import requests
-import zipfile
-import io
-import platform
 import json
-from urllib.parse import parse_qs
 
 from ..web.browser_client import BrowserClient
 
